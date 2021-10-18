@@ -9,7 +9,7 @@
 </head>
 <body>
     <div>
-        <h1 style="text-align: center;">KKR vs PJB</h1>
+        <h1 style="text-align: center;">CSK vs PJB</h1>
         <canvas id="score" height="100%"></canvas>
     </div>
 
